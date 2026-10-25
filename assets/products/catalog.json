@@ -1,0 +1,3220 @@
+[
+  {
+    "id": 1,
+    "name": "Cubana",
+    "category": "Cadenas",
+    "page": 3,
+    "image": "assets/products/product-001-main.webp",
+    "gallery": [
+      "assets/products/product-001-main.webp",
+      "assets/products/product-001-model.webp",
+      "assets/products/product-001-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Carter",
+    "category": "Cadenas",
+    "page": 4,
+    "image": "assets/products/product-002-main.webp",
+    "gallery": [
+      "assets/products/product-002-main.webp",
+      "assets/products/product-002-model.webp",
+      "assets/products/product-002-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chinesca",
+    "category": "Cadenas",
+    "page": 5,
+    "image": "assets/products/product-003-main.webp",
+    "gallery": [
+      "assets/products/product-003-main.webp",
+      "assets/products/product-003-model.webp",
+      "assets/products/product-003-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lazo",
+    "category": "Cadenas",
+    "page": 6,
+    "image": "assets/products/product-004-main.webp",
+    "gallery": [
+      "assets/products/product-004-main.webp",
+      "assets/products/product-004-model.webp",
+      "assets/products/product-004-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Veneciana",
+    "category": "Cadenas",
+    "page": 7,
+    "image": "assets/products/product-005-main.webp",
+    "gallery": [
+      "assets/products/product-005-main.webp",
+      "assets/products/product-005-model.webp",
+      "assets/products/product-005-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 1 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Egipcia",
+    "category": "Cadenas",
+    "page": 8,
+    "image": "assets/products/product-006-main.webp",
+    "gallery": [
+      "assets/products/product-006-main.webp",
+      "assets/products/product-006-model.webp",
+      "assets/products/product-006-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Serpiente",
+    "category": "Cadenas",
+    "page": 9,
+    "image": "assets/products/product-007-main.webp",
+    "gallery": [
+      "assets/products/product-007-main.webp",
+      "assets/products/product-007-model.webp",
+      "assets/products/product-007-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Grabada",
+    "category": "Cadenas",
+    "page": 10,
+    "image": "assets/products/product-008-main.webp",
+    "gallery": [
+      "assets/products/product-008-main.webp",
+      "assets/products/product-008-model.webp",
+      "assets/products/product-008-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Franco",
+    "category": "Cadenas",
+    "page": 11,
+    "image": "assets/products/product-009-main.webp",
+    "gallery": [
+      "assets/products/product-009-main.webp",
+      "assets/products/product-009-model.webp",
+      "assets/products/product-009-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ancla",
+    "category": "Cadenas",
+    "page": 12,
+    "image": "assets/products/product-010-main.webp",
+    "gallery": [
+      "assets/products/product-010-main.webp",
+      "assets/products/product-010-model.webp",
+      "assets/products/product-010-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Tennis",
+    "category": "Cadenas",
+    "page": 13,
+    "image": "assets/products/product-011-main.webp",
+    "gallery": [
+      "assets/products/product-011-main.webp",
+      "assets/products/product-011-model.webp",
+      "assets/products/product-011-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 3 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Barbada",
+    "category": "Cadenas",
+    "page": 14,
+    "image": "assets/products/product-012-main.webp",
+    "gallery": [
+      "assets/products/product-012-main.webp",
+      "assets/products/product-012-model.webp",
+      "assets/products/product-012-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Rústica",
+    "category": "Cadenas",
+    "page": 15,
+    "image": "assets/products/product-013-main.webp",
+    "gallery": [
+      "assets/products/product-013-main.webp",
+      "assets/products/product-013-model.webp",
+      "assets/products/product-013-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Espiga",
+    "category": "Cadenas",
+    "page": 16,
+    "image": "assets/products/product-014-main.webp",
+    "gallery": [
+      "assets/products/product-014-main.webp",
+      "assets/products/product-014-model.webp",
+      "assets/products/product-014-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Engranaje",
+    "category": "Cadenas",
+    "page": 17,
+    "image": "assets/products/product-015-main.webp",
+    "gallery": [
+      "assets/products/product-015-main.webp",
+      "assets/products/product-015-model.webp",
+      "assets/products/product-015-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Hélice",
+    "category": "Cadenas",
+    "page": 18,
+    "image": "assets/products/product-016-main.webp",
+    "gallery": [
+      "assets/products/product-016-main.webp",
+      "assets/products/product-016-model.webp",
+      "assets/products/product-016-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Militar",
+    "category": "Cadenas",
+    "page": 19,
+    "image": "assets/products/product-017-main.webp",
+    "gallery": [
+      "assets/products/product-017-main.webp",
+      "assets/products/product-017-model.webp",
+      "assets/products/product-017-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 4 mm",
+        "price": 200000
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Griega",
+    "category": "Cadenas",
+    "page": 20,
+    "image": "assets/products/product-018-main.webp",
+    "gallery": [
+      "assets/products/product-018-main.webp",
+      "assets/products/product-018-model.webp",
+      "assets/products/product-018-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 2 mm",
+        "price": 150000
+      },
+      {
+        "label": "65 cm · 4 mm",
+        "price": 200000
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Romana",
+    "category": "Cadenas",
+    "page": 21,
+    "image": "assets/products/product-019-main.webp",
+    "gallery": [
+      "assets/products/product-019-main.webp",
+      "assets/products/product-019-model.webp",
+      "assets/products/product-019-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "65 cm · 4 mm",
+        "price": 200000
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Cordón",
+    "category": "Cadenas",
+    "page": 22,
+    "image": "assets/products/product-020-main.webp",
+    "gallery": [
+      "assets/products/product-020-main.webp",
+      "assets/products/product-020-model.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "45 cm · 1 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Singapur",
+    "category": "Cadenas",
+    "page": 22,
+    "image": "assets/products/product-021-main.webp",
+    "gallery": [
+      "assets/products/product-021-main.webp",
+      "assets/products/product-021-model.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "45 cm · 1 mm",
+        "price": null
+      },
+      {
+        "label": "65 cm · 1 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Espiral",
+    "category": "Cadenas",
+    "page": 23,
+    "image": "assets/products/product-022-main.webp",
+    "gallery": [
+      "assets/products/product-022-main.webp",
+      "assets/products/product-022-model.webp",
+      "assets/products/product-022-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "45 cm · 1 mm",
+        "price": null
+      },
+      {
+        "label": "45 cm · 2 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Cruz Brillante",
+    "category": "Dijes",
+    "page": 24,
+    "image": "assets/products/product-023-main.webp",
+    "gallery": [
+      "assets/products/product-023-main.webp",
+      "assets/products/product-023-model.webp",
+      "assets/products/product-023-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Corazón Caballo",
+    "category": "Dijes",
+    "page": 25,
+    "image": "assets/products/product-024-main.webp",
+    "gallery": [
+      "assets/products/product-024-main.webp",
+      "assets/products/product-024-model.webp",
+      "assets/products/product-024-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cruz Calada",
+    "category": "Dijes",
+    "page": 26,
+    "image": "assets/products/product-025-main.webp",
+    "gallery": [
+      "assets/products/product-025-main.webp",
+      "assets/products/product-025-model.webp",
+      "assets/products/product-025-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Cruz Celestial",
+    "category": "Dijes",
+    "page": 27,
+    "image": "assets/products/product-026-main.webp",
+    "gallery": [
+      "assets/products/product-026-main.webp",
+      "assets/products/product-026-model.webp",
+      "assets/products/product-026-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Cruz Deluxe",
+    "category": "Dijes",
+    "page": 28,
+    "image": "assets/products/product-027-main.webp",
+    "gallery": [
+      "assets/products/product-027-main.webp",
+      "assets/products/product-027-model.webp",
+      "assets/products/product-027-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Cruz Grabada",
+    "category": "Dijes",
+    "page": 29,
+    "image": "assets/products/product-028-main.webp",
+    "gallery": [
+      "assets/products/product-028-main.webp",
+      "assets/products/product-028-model.webp",
+      "assets/products/product-028-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Cruz Liana",
+    "category": "Dijes",
+    "page": 30,
+    "image": "assets/products/product-029-main.webp",
+    "gallery": [
+      "assets/products/product-029-main.webp",
+      "assets/products/product-029-model.webp",
+      "assets/products/product-029-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Cruz Lisa",
+    "category": "Dijes",
+    "page": 31,
+    "image": "assets/products/product-030-main.webp",
+    "gallery": [
+      "assets/products/product-030-main.webp",
+      "assets/products/product-030-model.webp",
+      "assets/products/product-030-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Cruz Luxus",
+    "category": "Dijes",
+    "page": 32,
+    "image": "assets/products/product-031-main.webp",
+    "gallery": [
+      "assets/products/product-031-main.webp",
+      "assets/products/product-031-model.webp",
+      "assets/products/product-031-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Cruz Suprema",
+    "category": "Dijes",
+    "page": 33,
+    "image": "assets/products/product-032-main.webp",
+    "gallery": [
+      "assets/products/product-032-main.webp",
+      "assets/products/product-032-model.webp",
+      "assets/products/product-032-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ala",
+    "category": "Dijes",
+    "page": 34,
+    "image": "assets/products/product-033-main.webp",
+    "gallery": [
+      "assets/products/product-033-main.webp",
+      "assets/products/product-033-model.webp",
+      "assets/products/product-033-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Barra",
+    "category": "Dijes",
+    "page": 35,
+    "image": "assets/products/product-034-main.webp",
+    "gallery": [
+      "assets/products/product-034-main.webp",
+      "assets/products/product-034-model.webp",
+      "assets/products/product-034-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Barra Pirámides",
+    "category": "Dijes",
+    "page": 36,
+    "image": "assets/products/product-035-main.webp",
+    "gallery": [
+      "assets/products/product-035-main.webp",
+      "assets/products/product-035-model.webp",
+      "assets/products/product-035-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Caballo",
+    "category": "Dijes",
+    "page": 37,
+    "image": "assets/products/product-036-main.webp",
+    "gallery": [
+      "assets/products/product-036-main.webp",
+      "assets/products/product-036-model.webp",
+      "assets/products/product-036-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Gladiador",
+    "category": "Dijes",
+    "page": 38,
+    "image": "assets/products/product-037-main.webp",
+    "gallery": [
+      "assets/products/product-037-main.webp",
+      "assets/products/product-037-model.webp",
+      "assets/products/product-037-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Hércules",
+    "category": "Dijes",
+    "page": 39,
+    "image": "assets/products/product-038-main.webp",
+    "gallery": [
+      "assets/products/product-038-main.webp",
+      "assets/products/product-038-model.webp",
+      "assets/products/product-038-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jade",
+    "category": "Dijes",
+    "page": 40,
+    "image": "assets/products/product-039-main.webp",
+    "gallery": [
+      "assets/products/product-039-main.webp",
+      "assets/products/product-039-model.webp",
+      "assets/products/product-039-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Pegaso",
+    "category": "Dijes",
+    "page": 41,
+    "image": "assets/products/product-040-main.webp",
+    "gallery": [
+      "assets/products/product-040-main.webp",
+      "assets/products/product-040-model.webp",
+      "assets/products/product-040-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Ancla",
+    "category": "Medallas y dijes",
+    "page": 42,
+    "image": "assets/products/product-041-main.webp",
+    "gallery": [
+      "assets/products/product-041-main.webp",
+      "assets/products/product-041-model.webp",
+      "assets/products/product-041-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena",
+      "Gemas negras"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Equus",
+    "category": "Medallas y dijes",
+    "page": 43,
+    "image": "assets/products/product-042-main.webp",
+    "gallery": [
+      "assets/products/product-042-main.webp",
+      "assets/products/product-042-model.webp",
+      "assets/products/product-042-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena",
+      "Gemas negras"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "León",
+    "category": "Medallas y dijes",
+    "page": 44,
+    "image": "assets/products/product-043-main.webp",
+    "gallery": [
+      "assets/products/product-043-main.webp",
+      "assets/products/product-043-model.webp",
+      "assets/products/product-043-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena",
+      "Gemas negras"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Placa",
+    "category": "Dijes",
+    "page": 45,
+    "image": "assets/products/product-044-main.webp",
+    "gallery": [
+      "assets/products/product-044-main.webp",
+      "assets/products/product-044-model.webp",
+      "assets/products/product-044-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Placa Griega",
+    "category": "Dijes",
+    "page": 46,
+    "image": "assets/products/product-045-main.webp",
+    "gallery": [
+      "assets/products/product-045-main.webp",
+      "assets/products/product-045-model.webp",
+      "assets/products/product-045-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Loyal",
+    "category": "Dijes",
+    "page": 47,
+    "image": "assets/products/product-046-main.webp",
+    "gallery": [
+      "assets/products/product-046-main.webp",
+      "assets/products/product-046-model.webp",
+      "assets/products/product-046-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Clásico",
+    "category": "Dijes",
+    "page": 48,
+    "image": "assets/products/product-047-main.webp",
+    "gallery": [
+      "assets/products/product-047-main.webp",
+      "assets/products/product-047-model.webp",
+      "assets/products/product-047-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar",
+      "No incluye cadena"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Aslan",
+    "category": "Brazaletes",
+    "page": 49,
+    "image": "assets/products/product-048-main.webp",
+    "gallery": [
+      "assets/products/product-048-main.webp",
+      "assets/products/product-048-model.webp",
+      "assets/products/product-048-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Calado",
+    "category": "Brazaletes",
+    "page": 50,
+    "image": "assets/products/product-049-main.webp",
+    "gallery": [
+      "assets/products/product-049-main.webp",
+      "assets/products/product-049-model.webp",
+      "assets/products/product-049-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "León",
+    "category": "Brazaletes",
+    "page": 51,
+    "image": "assets/products/product-050-main.webp",
+    "gallery": [
+      "assets/products/product-050-main.webp",
+      "assets/products/product-050-model.webp",
+      "assets/products/product-050-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Liso",
+    "category": "Brazaletes",
+    "page": 52,
+    "image": "assets/products/product-051-main.webp",
+    "gallery": [
+      "assets/products/product-051-main.webp",
+      "assets/products/product-051-model.webp",
+      "assets/products/product-051-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Luxor",
+    "category": "Brazaletes",
+    "page": 53,
+    "image": "assets/products/product-052-main.webp",
+    "gallery": [
+      "assets/products/product-052-main.webp",
+      "assets/products/product-052-model.webp",
+      "assets/products/product-052-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Pantera",
+    "category": "Brazaletes",
+    "page": 54,
+    "image": "assets/products/product-053-main.webp",
+    "gallery": [
+      "assets/products/product-053-main.webp",
+      "assets/products/product-053-model.webp",
+      "assets/products/product-053-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Magno",
+    "category": "Brazaletes",
+    "page": 55,
+    "image": "assets/products/product-054-main.webp",
+    "gallery": [
+      "assets/products/product-054-main.webp",
+      "assets/products/product-054-model.webp",
+      "assets/products/product-054-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Apolo",
+    "category": "Anillos",
+    "page": 56,
+    "image": "assets/products/product-055-main.webp",
+    "gallery": [
+      "assets/products/product-055-main.webp",
+      "assets/products/product-055-model.webp",
+      "assets/products/product-055-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Colosal",
+    "category": "Anillos",
+    "page": 57,
+    "image": "assets/products/product-056-main.webp",
+    "gallery": [
+      "assets/products/product-056-main.webp",
+      "assets/products/product-056-model.webp",
+      "assets/products/product-056-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Cubano",
+    "category": "Anillos",
+    "page": 58,
+    "image": "assets/products/product-057-main.webp",
+    "gallery": [
+      "assets/products/product-057-main.webp",
+      "assets/products/product-057-model.webp",
+      "assets/products/product-057-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Esparta",
+    "category": "Anillos",
+    "page": 59,
+    "image": "assets/products/product-058-main.webp",
+    "gallery": [
+      "assets/products/product-058-main.webp",
+      "assets/products/product-058-model.webp",
+      "assets/products/product-058-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Olimpus",
+    "category": "Anillos",
+    "page": 60,
+    "image": "assets/products/product-059-main.webp",
+    "gallery": [
+      "assets/products/product-059-main.webp",
+      "assets/products/product-059-model.webp",
+      "assets/products/product-059-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Panal",
+    "category": "Anillos",
+    "page": 61,
+    "image": "assets/products/product-060-main.webp",
+    "gallery": [
+      "assets/products/product-060-main.webp",
+      "assets/products/product-060-model.webp",
+      "assets/products/product-060-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Titán",
+    "category": "Anillos",
+    "page": 62,
+    "image": "assets/products/product-061-main.webp",
+    "gallery": [
+      "assets/products/product-061-main.webp",
+      "assets/products/product-061-model.webp",
+      "assets/products/product-061-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Zeus",
+    "category": "Anillos",
+    "page": 63,
+    "image": "assets/products/product-062-main.webp",
+    "gallery": [
+      "assets/products/product-062-main.webp",
+      "assets/products/product-062-model.webp",
+      "assets/products/product-062-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Cubano",
+    "category": "Pulseras",
+    "page": 64,
+    "image": "assets/products/product-063-main.webp",
+    "gallery": [
+      "assets/products/product-063-main.webp",
+      "assets/products/product-063-model.webp",
+      "assets/products/product-063-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "2 mm",
+        "price": null
+      },
+      {
+        "label": "2 mm + placa",
+        "price": null
+      },
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Carter",
+    "category": "Pulseras",
+    "page": 65,
+    "image": "assets/products/product-064-main.webp",
+    "gallery": [
+      "assets/products/product-064-main.webp",
+      "assets/products/product-064-model.webp",
+      "assets/products/product-064-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "2 mm",
+        "price": null
+      },
+      {
+        "label": "2 mm + placa",
+        "price": null
+      },
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Chinesco",
+    "category": "Pulseras",
+    "page": 66,
+    "image": "assets/products/product-065-main.webp",
+    "gallery": [
+      "assets/products/product-065-main.webp",
+      "assets/products/product-065-model.webp",
+      "assets/products/product-065-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Franco",
+    "category": "Pulseras",
+    "page": 67,
+    "image": "assets/products/product-066-main.webp",
+    "gallery": [
+      "assets/products/product-066-main.webp",
+      "assets/products/product-066-model.webp",
+      "assets/products/product-066-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "2 mm",
+        "price": null
+      },
+      {
+        "label": "2 mm + placa",
+        "price": null
+      },
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Grabado",
+    "category": "Pulseras",
+    "page": 68,
+    "image": "assets/products/product-067-main.webp",
+    "gallery": [
+      "assets/products/product-067-main.webp",
+      "assets/products/product-067-model.webp",
+      "assets/products/product-067-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "2 mm",
+        "price": null
+      },
+      {
+        "label": "2 mm + placa",
+        "price": null
+      },
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Serpiente",
+    "category": "Pulseras",
+    "page": 69,
+    "image": "assets/products/product-068-main.webp",
+    "gallery": [
+      "assets/products/product-068-main.webp",
+      "assets/products/product-068-model.webp",
+      "assets/products/product-068-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "2 mm",
+        "price": null
+      },
+      {
+        "label": "2 mm + placa",
+        "price": null
+      },
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Ancla",
+    "category": "Pulseras",
+    "page": 70,
+    "image": "assets/products/product-069-main.webp",
+    "gallery": [
+      "assets/products/product-069-main.webp",
+      "assets/products/product-069-model.webp",
+      "assets/products/product-069-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Veneciano",
+    "category": "Pulseras",
+    "page": 71,
+    "image": "assets/products/product-070-main.webp",
+    "gallery": [
+      "assets/products/product-070-main.webp",
+      "assets/products/product-070-model.webp",
+      "assets/products/product-070-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "2 mm",
+        "price": null
+      },
+      {
+        "label": "2 mm + placa",
+        "price": null
+      },
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm + placa",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Lazo",
+    "category": "Pulseras",
+    "page": 72,
+    "image": "assets/products/product-071-main.webp",
+    "gallery": [
+      "assets/products/product-071-main.webp",
+      "assets/products/product-071-model.webp",
+      "assets/products/product-071-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "2 mm",
+        "price": null
+      },
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tennis",
+    "category": "Pulseras",
+    "page": 73,
+    "image": "assets/products/product-072-main.webp",
+    "gallery": [
+      "assets/products/product-072-main.webp",
+      "assets/products/product-072-model.webp",
+      "assets/products/product-072-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tennis rectangular",
+    "category": "Pulseras",
+    "page": 74,
+    "image": "assets/products/product-073-main.webp",
+    "gallery": [
+      "assets/products/product-073-main.webp",
+      "assets/products/product-073-model.webp",
+      "assets/products/product-073-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Tennis cuadrado",
+    "category": "Pulseras",
+    "page": 75,
+    "image": "assets/products/product-074-main.webp",
+    "gallery": [
+      "assets/products/product-074-main.webp",
+      "assets/products/product-074-model.webp",
+      "assets/products/product-074-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Otra vista del producto",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Jade",
+    "category": "Pulseras",
+    "page": 76,
+    "image": "assets/products/product-075-main.webp",
+    "gallery": [
+      "assets/products/product-075-main.webp",
+      "assets/products/product-075-model.webp",
+      "assets/products/product-075-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Zeus",
+    "category": "Pulseras",
+    "page": 77,
+    "image": "assets/products/product-076-main.webp",
+    "gallery": [
+      "assets/products/product-076-main.webp",
+      "assets/products/product-076-model.webp",
+      "assets/products/product-076-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Atlas",
+    "category": "Pulseras",
+    "page": 78,
+    "image": "assets/products/product-077-main.webp",
+    "gallery": [
+      "assets/products/product-077-main.webp",
+      "assets/products/product-077-model.webp",
+      "assets/products/product-077-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Monaco",
+    "category": "Pulseras",
+    "page": 79,
+    "image": "assets/products/product-078-main.webp",
+    "gallery": [
+      "assets/products/product-078-main.webp",
+      "assets/products/product-078-model.webp",
+      "assets/products/product-078-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Titán",
+    "category": "Pulseras",
+    "page": 80,
+    "image": "assets/products/product-079-main.webp",
+    "gallery": [
+      "assets/products/product-079-main.webp",
+      "assets/products/product-079-model.webp",
+      "assets/products/product-079-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Carter tejido",
+    "category": "Pulseras",
+    "page": 81,
+    "image": "assets/products/product-080-main.webp",
+    "gallery": [
+      "assets/products/product-080-main.webp",
+      "assets/products/product-080-model.webp",
+      "assets/products/product-080-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Cubano tejido",
+    "category": "Pulseras",
+    "page": 82,
+    "image": "assets/products/product-081-main.webp",
+    "gallery": [
+      "assets/products/product-081-main.webp",
+      "assets/products/product-081-model.webp",
+      "assets/products/product-081-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Chinesco tejido",
+    "category": "Pulseras",
+    "page": 83,
+    "image": "assets/products/product-082-main.webp",
+    "gallery": [
+      "assets/products/product-082-main.webp",
+      "assets/products/product-082-model.webp",
+      "assets/products/product-082-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Franco tejido",
+    "category": "Pulseras",
+    "page": 84,
+    "image": "assets/products/product-083-main.webp",
+    "gallery": [
+      "assets/products/product-083-main.webp",
+      "assets/products/product-083-model.webp",
+      "assets/products/product-083-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Ancla tejido",
+    "category": "Pulseras",
+    "page": 85,
+    "image": "assets/products/product-084-main.webp",
+    "gallery": [
+      "assets/products/product-084-main.webp",
+      "assets/products/product-084-model.webp",
+      "assets/products/product-084-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Veneciano tejido",
+    "category": "Pulseras",
+    "page": 86,
+    "image": "assets/products/product-085-main.webp",
+    "gallery": [
+      "assets/products/product-085-main.webp",
+      "assets/products/product-085-model.webp",
+      "assets/products/product-085-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Tejido placa",
+    "category": "Pulseras",
+    "page": 87,
+    "image": "assets/products/product-086-main.webp",
+    "gallery": [
+      "assets/products/product-086-main.webp",
+      "assets/products/product-086-model.webp",
+      "assets/products/product-086-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Intercalada",
+    "category": "Pulseras",
+    "page": 88,
+    "image": "assets/products/product-087-main.webp",
+    "gallery": [
+      "assets/products/product-087-main.webp",
+      "assets/products/product-087-model.webp",
+      "assets/products/product-087-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Doble intercalada",
+    "category": "Pulseras",
+    "page": 89,
+    "image": "assets/products/product-088-main.webp",
+    "gallery": [
+      "assets/products/product-088-main.webp",
+      "assets/products/product-088-model.webp",
+      "assets/products/product-088-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Balines centrales",
+    "category": "Pulseras",
+    "page": 90,
+    "image": "assets/products/product-089-main.webp",
+    "gallery": [
+      "assets/products/product-089-main.webp",
+      "assets/products/product-089-model.webp",
+      "assets/products/product-089-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Balines laterales",
+    "category": "Pulseras",
+    "page": 91,
+    "image": "assets/products/product-090-main.webp",
+    "gallery": [
+      "assets/products/product-090-main.webp",
+      "assets/products/product-090-model.webp",
+      "assets/products/product-090-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Balines completa",
+    "category": "Pulseras",
+    "page": 92,
+    "image": "assets/products/product-091-main.webp",
+    "gallery": [
+      "assets/products/product-091-main.webp",
+      "assets/products/product-091-model.webp",
+      "assets/products/product-091-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm + placa",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Trenzada",
+    "category": "Pulseras",
+    "page": 93,
+    "image": "assets/products/product-092-main.webp",
+    "gallery": [
+      "assets/products/product-092-main.webp",
+      "assets/products/product-092-model.webp",
+      "assets/products/product-092-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      },
+      {
+        "label": "6 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Entrelazada",
+    "category": "Pulseras",
+    "page": 94,
+    "image": "assets/products/product-093-main.webp",
+    "gallery": [
+      "assets/products/product-093-main.webp",
+      "assets/products/product-093-model.webp",
+      "assets/products/product-093-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "4 mm",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Tres líneas",
+    "category": "Pulseras",
+    "page": 95,
+    "image": "assets/products/product-094-main.webp",
+    "gallery": [
+      "assets/products/product-094-main.webp",
+      "assets/products/product-094-model.webp",
+      "assets/products/product-094-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [
+      {
+        "label": "Completa balines oro laminado",
+        "price": null
+      },
+      {
+        "label": "Oro laminado + piedras naturales",
+        "price": null
+      }
+    ],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Siena",
+    "category": "Argollas",
+    "page": 96,
+    "image": "assets/products/product-095-main.webp",
+    "gallery": [
+      "assets/products/product-095-main.webp",
+      "assets/products/product-095-model.webp",
+      "assets/products/product-095-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Astra",
+    "category": "Argollas",
+    "page": 96,
+    "image": "assets/products/product-096-main.webp",
+    "gallery": [
+      "assets/products/product-096-main.webp",
+      "assets/products/product-096-model.webp",
+      "assets/products/product-096-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Bria",
+    "category": "Argollas",
+    "page": 97,
+    "image": "assets/products/product-097-main.webp",
+    "gallery": [
+      "assets/products/product-097-main.webp",
+      "assets/products/product-097-model.webp",
+      "assets/products/product-097-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Greta",
+    "category": "Argollas",
+    "page": 97,
+    "image": "assets/products/product-098-main.webp",
+    "gallery": [
+      "assets/products/product-098-main.webp",
+      "assets/products/product-098-model.webp",
+      "assets/products/product-098-detail.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto",
+      "Modelo usando la joya",
+      "Detalle del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Alma",
+    "category": "Argollas",
+    "page": 98,
+    "image": "assets/products/product-099-main.webp",
+    "gallery": [
+      "assets/products/product-099-main.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Tara",
+    "category": "Argollas",
+    "page": 98,
+    "image": "assets/products/product-100-main.webp",
+    "gallery": [
+      "assets/products/product-100-main.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Myra",
+    "category": "Argollas",
+    "page": 98,
+    "image": "assets/products/product-101-main.webp",
+    "gallery": [
+      "assets/products/product-101-main.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Aura",
+    "category": "Argollas",
+    "page": 98,
+    "image": "assets/products/product-102-main.webp",
+    "gallery": [
+      "assets/products/product-102-main.webp"
+    ],
+    "galleryLabels": [
+      "Fotografía principal del producto"
+    ],
+    "reference": null,
+    "variants": [],
+    "features": [
+      "Oro laminado",
+      "Resiste lociones",
+      "Resiste sudor",
+      "Resiste piscinas",
+      "Resiste mar"
+    ]
+  }
+]
