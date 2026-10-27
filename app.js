@@ -8,6 +8,36 @@ let products = [];
 let activeCategory = 'Todas';
 let selectedVariant = null;
 
+let dialogScrollPosition = 0;
+let savedBodyStyles = null;
+
+function lockDialogBackgroundScroll() {
+  if (document.documentElement.classList.contains('product-dialog-open')) return;
+  dialogScrollPosition = window.scrollY || window.pageYOffset;
+  const bodyStyle = document.body.style;
+  savedBodyStyles = {
+    position: bodyStyle.position,
+    top: bodyStyle.top,
+    left: bodyStyle.left,
+    right: bodyStyle.right,
+    width: bodyStyle.width
+  };
+  document.documentElement.classList.add('product-dialog-open');
+  bodyStyle.position = 'fixed';
+  bodyStyle.top = '-' + dialogScrollPosition + 'px';
+  bodyStyle.left = '0';
+  bodyStyle.right = '0';
+  bodyStyle.width = '100%';
+}
+
+function unlockDialogBackgroundScroll() {
+  if (!savedBodyStyles) return;
+  Object.assign(document.body.style, savedBodyStyles);
+  document.documentElement.classList.remove('product-dialog-open');
+  savedBodyStyles = null;
+  window.scrollTo(0, dialogScrollPosition);
+}
+
 const normalize = value => String(value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('es');
 const formatPrice = value => new Intl.NumberFormat('es-CO', {style:'currency',currency:'COP',maximumFractionDigits:0}).format(value);
 const categories = ['Todas', 'Cadenas', 'Dijes', 'Medallas y dijes', 'Brazaletes', 'Anillos', 'Pulseras', 'Argollas'];
@@ -89,11 +119,13 @@ function openProduct(item) {
   }));
   renderVariants(item);
   updateWhatsApp(item);
+  lockDialogBackgroundScroll();
   dialog.showModal();
 }
 
 search.addEventListener('input', renderProducts);
 document.querySelector('.dialog-close').addEventListener('click', () => dialog.close());
+dialog.addEventListener('close', unlockDialogBackgroundScroll);
 dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
 
 if (Array.isArray(window.akoreCatalog)) {
